@@ -9,7 +9,6 @@ public class Main {
         int c = 70;
         int d = 5;
         double e = 2.458;
-        double t = 1.45894;
 
         // сложение
         System.out.println("a + b = " + (a + b));
